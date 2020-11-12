@@ -2,7 +2,7 @@
 
 **Work in progress: false-positive reduction step**
 
-Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) for lung nodule segmentation from CT scans. This project is based on the PyTorch implementation of U-Net at [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)
+Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) for lung nodule segmentation from CT scans. This project is based on the PyTorch implementation of U-Net at [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet). CT scans require special handling during preprocessing, please refer to [Image_and_Mask_Preprocessing.ipynb](https://github.com/kitliu5/Stanford-CS221-Project/blob/main/Image_and_Mask_Preprocessing.ipynb) in the repo for preprocessing of image and masks.
 
 ## Usage
 **Note : Use Python 3.6 or newer**
