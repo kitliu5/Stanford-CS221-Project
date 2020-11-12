@@ -1,5 +1,7 @@
 # Semantic segmentation of Lung Nodules using U-Net
 
+**Work in progress: false-positive reduction step**
+
 Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) for lung nodule segmentation from CT scans. This project is based on the PyTorch implementation of U-Net at [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)
 
 ## Usage
